@@ -5,8 +5,7 @@ NB : main.tf.old correspond à notre ancien main.tf (avant l'organisation en mod
 
 ## Organisation des fichiers
 - DeployInfra-Jenkinsfile : code du pipeline de déploiement sur Jenkins
-- main.tf et variables.tf : servent au lancement de Terraform
-La main.tf s'appuie sur sur des les modules suivants : 
+- main.tf et variables.tf : servent au lancement de Terraform. Main.tf s'appuie sur les modules suivants :
  - subnets
  - route_tables
  - nat 
