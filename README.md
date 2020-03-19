@@ -1,5 +1,5 @@
 # Deploy_Infra
-Déploiement automatisé de l'infrastructure avec Terraform.
+Déploiement automatis de l'infrastructure avec Terraform.
 
 NB : main.tf.old correspond à notre ancien main.tf (avant l'organisation en modules).
 
